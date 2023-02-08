@@ -8,3 +8,8 @@
 	url = https://github.com/tdaverse/tdaunif
 	shallow = true
 	registered = true
+[submodule "interplex"]
+	path = interplex
+	url = https://github.com/tdaverse/interplex
+	shallow = true
+	registered = true

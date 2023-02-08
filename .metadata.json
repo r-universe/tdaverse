@@ -2,5 +2,8 @@
   {
     "package": "tdaunif",
     "oncran": true
+  },
+  {
+    "package": "interplex"
   }
 ]
