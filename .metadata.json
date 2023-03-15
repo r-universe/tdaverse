@@ -1,9 +1,9 @@
 [
   {
-    "package": "tdaunif",
-    "oncran": true
+    "package": "interplex"
   },
   {
-    "package": "interplex"
+    "package": "tdaunif",
+    "oncran": true
   }
 ]

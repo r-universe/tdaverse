@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "tdaunif"]
-	path = tdaunif
-	url = https://github.com/tdaverse/tdaunif
-	shallow = true
-	registered = true
 [submodule "interplex"]
 	path = interplex
 	url = https://github.com/tdaverse/interplex
+	shallow = true
+	registered = true
+[submodule "tdaunif"]
+	path = tdaunif
+	url = https://github.com/tdaverse/tdaunif
 	shallow = true
 	registered = true
