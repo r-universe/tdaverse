@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "interplex"]
+	path = interplex
+	url = https://github.com/tdaverse/interplex
 [submodule "tdaunif"]
 	path = tdaunif
 	url = https://github.com/tdaverse/tdaunif
