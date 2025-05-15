@@ -5,6 +5,9 @@
 [submodule "interplex"]
 	path = interplex
 	url = https://github.com/tdaverse/interplex
+[submodule "phutil"]
+	path = phutil
+	url = https://github.com/tdaverse/phutil
 [submodule "ripserr"]
 	path = ripserr
 	url = https://github.com/tdaverse/ripserr
