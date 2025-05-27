@@ -11,6 +11,9 @@
 [submodule "ripserr"]
 	path = ripserr
 	url = https://github.com/tdaverse/ripserr
+[submodule "tdarec"]
+	path = tdarec
+	url = https://github.com/tdaverse/tdarec
 [submodule "tdaunif"]
 	path = tdaunif
 	url = https://github.com/tdaverse/tdaunif
