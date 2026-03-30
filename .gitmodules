@@ -8,9 +8,6 @@
 [submodule "inphr"]
 	path = inphr
 	url = https://github.com/tdaverse/inphr
-[submodule "interplex"]
-	path = interplex
-	url = https://github.com/tdaverse/interplex
 [submodule "phutil"]
 	path = phutil
 	url = https://github.com/tdaverse/phutil
